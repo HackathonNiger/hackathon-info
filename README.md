@@ -6,7 +6,7 @@ Welcome to the official info hub for the world's largest hackathon — organized
 
 ## 🗓️ Event Details
 - **Theme:** Build for Nigeria 🇳🇬
-- **Duration:** [Start Date] – [End Date]
+- **Duration:** 1 – 7 October
 - **Participants:** 6,000+
 - **Platform:** GitHub + [Hacktribe / Discord Link]
 
